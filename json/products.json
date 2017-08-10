@@ -1,0 +1,101 @@
+{
+    "products": [
+    	{
+	        "fairy_sparklers": {
+	            "id": 0,
+	            "type": 0,
+	            "name": "Fairy Sparklers",
+	            "description": "Multi-colored sparklers that are safe for any age."
+        		}
+    	},
+    	{
+	        "bottle_rockets": {
+	            "id": 1,
+	            "type": 0,
+	            "name": "Bottle Rockets",
+	            "description": "Bottle Rockets launch into the air with a bang at the end."
+        		}
+    	},
+    	{
+	        "firecrackers": {
+	            "id": 2,
+	            "type": 0,
+	            "name": "Firecrackers",
+	            "description": " A small explosive device primarily designed to produce noise."
+        		}
+    	},
+    	{
+	        "gerbs": {
+	            "id": 3,
+	            "type": 1,
+	            "name": "Gerbs",
+	            "description": "Gerbs produce a jet of sparks lasting between 15 and 60 seconds."
+        		}
+    	},
+    	{
+	        "saxons": {
+	            "id": 4,
+	            "type": 1,
+	            "name": "Saxons",
+	            "description": "The Saxon is a rapidly spinning ground based firework."
+        		}
+    	},
+    	{
+	        "flash_pots": {
+	            "id": 5,
+	            "type": 1,
+	            "name": "Flash Pots",
+	            "description": "Short metal pot used with binary powders creating flash, smoke or sparks"
+        		}
+    	},
+    	{
+	        "cakes": {
+	            "id": 6,
+	            "type": 2,
+	            "name": "Cakes",
+	            "description": "A series of small aerial shells connected together by a high-speed fuse."
+        		}
+    	},
+    	{
+	        "kamuro": {
+	            "id": 7,
+	            "type": 2,
+	            "name": "Kamuro",
+	            "description": "A dense burst ofsilver or gold stars which leave a heavy glitter trail."
+        		}
+    	},
+    	{
+	        "palms": {
+	            "id": 8,
+	            "type": 2,
+	            "name": "Palms",
+	            "description": "A shell containing a relatively few large comet stars."
+        		}
+    	},
+    	{
+	        "w54": {
+	            "id": 9,
+	            "type": 3,
+	            "name": "W54",
+	            "description": "A very compact implosion-type nuclear weapon design."
+        		}
+    	},
+    	{
+	        "m29": {
+	            "id": 10,
+	            "type": 3,
+	            "name": "M-29 Davy Crockett Weapon System",
+	            "description": "A tactical nuclear recoilless gun for firing the M-388 nuclear projectile (sold seperately)."
+        		}
+    	},
+    	{
+	        "w89": {
+	            "id": 11,
+	            "type": 3,
+	            "name": "W89",
+	            "description": "200 kiloton warhead for the tactical Sea Lance anti-submarine depth charge."
+        		}
+    	}
+
+	]
+}

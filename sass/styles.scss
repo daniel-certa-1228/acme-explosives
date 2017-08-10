@@ -1,0 +1,23 @@
+$main-color: #fff;
+$font-stack: 'PT Sans', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+body {
+	background-color: $main-color;
+	font-family: $font-stack;
+}
+
+.center {
+	text-align: center;
+}
+
+#main-header {
+	padding:0;
+}
+
+#main-header h3 {
+	margin-top: .5em;
+	margin-bottom: 1em;
+}
+
