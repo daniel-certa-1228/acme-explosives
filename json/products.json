@@ -127,6 +127,22 @@
 	            "name": "Tsar Bomba",
 	            "description": "Soviet RDS-220 hydrogen bomb with a yield of 50 megaton TNT."
     		}
+    	},
+    	{
+	        "b41": {
+	            "id": 16,
+	            "type": 5,
+	            "name": "B41",
+	            "description": "Three-stage thermonuclear weapon primarily boosted by deuterium-tritium."
+    		}
+    	},
+    	{
+	        "tx_21": {
+	            "id": 17,
+	            "type": 5,
+	            "name": "TX-21",
+	            "description": "The TX-21 uses lithium deuteride fusion fuel (37% to 40% enriched Lithium-6 deuteride enclosed in a natural uranium tamper)."
+    		}
     	}
 
 	]
