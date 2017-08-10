@@ -95,6 +95,38 @@
 	            "name": "W89",
 	            "description": "200 kiloton warhead for the tactical Sea Lance anti-submarine depth charge."
         		}
+    	},
+    	{
+	        "mark_14": {
+	            "id": 12,
+	            "type": 4,
+	            "name": "Mark 14",
+	            "description": "Solid-fuel staged hydrogen bomb with a yield of 6.9 Mt."
+    		}
+    	},
+    	{
+	        "castle_bravo": {
+	            "id": 13,
+	            "type": 4,
+	            "name": "Castle Bravo",
+	            "description": "Lithium-deuteride-fueled thermonuclear weapon with a yield of 15 Mt."
+    		}
+    	},
+    	{
+	        "b57": {
+	            "id": 14,
+	            "type": 4,
+	            "name": "B57",
+	            "description": "20 Mt. bomb tailored for super-sonic flight."
+    		}
+    	},
+    	{
+	        "tsar_bomba": {
+	            "id": 15,
+	            "type": 5,
+	            "name": "Tsar Bomba",
+	            "description": "Soviet RDS-220 hydrogen bomb with a yield of 50 megaton TNT."
+    		}
     	}
 
 	]
