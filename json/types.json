@@ -3,37 +3,37 @@
         {
             "id": 0,
             "category": 0,
-            "name": "personal",
+            "name": "Personal",
             "description": "Fireworks intended for recreational use during holiday celebrations."
         },
         {
             "id": 1,
             "category": 0,
-            "name": "pyro",
+            "name": "Pyro",
             "description": "Pyro effects suited for outdoor stage and concert use."
         },
 		{
             "id": 2,
             "category": 0,
-            "name": "commercial",
+            "name": "Commercial",
             "description": "Commercial-grade fireworks for large-scale displays."
         },
         {
             "id": 3,
             "category": 1,
-            "name": "tactical",
+            "name": "Tactical",
             "description": "Nuclear weapons which are designed to be used on a battlefield in military situations"
         },
         {
             "id": 4,
             "category": 1,
-            "name": "strategic",
+            "name": "Strategic",
             "description": "Nuclear weapons which are designed to be used on targets in settled territory as part of a strategic plan"
         },
         {
             "id": 5,
             "category": 1,
-            "name": "bigguns",
+            "name": "Bigguns",
             "description": "The largest nuclear weapons currently available"
         }
 
