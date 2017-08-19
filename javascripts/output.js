@@ -12,7 +12,6 @@ mainSelect.addEventListener("change", (event) => {
 	outputDiv.classList.remove('hidden');
 	let categoryValue = parseInt(mainSelect.value);
 	let displayedCategory = sort.categoryArray[categoryValue].name;
-	// console.log( "sort.categoryArray", displayedCategory );
 
 	let output = `
 	<header class="text-center" id="product-header">
@@ -37,16 +36,3 @@ mainSelect.addEventListener("change", (event) => {
 	});
 	outputDiv.innerHTML += output;
 });
-		// if (mainSelect.value === "0") {
-		// 	let value = parseInt(mainSelect.value);
-		// 	console.log( "select event 0", value );
-
-		// 	// let fireworksCat = categoryArray[0].categories[value];
-		// 	// console.log( "fireworksCat.name", fireworksCat.name );
-		// 	// console.log( "fireworksCat.id", fireworksCat.id );
-		// }
-
-		// if (mainSelect.value === "1") {
-		// 	let value = parseInt(mainSelect.value);
-		// 	console.log( "select event 1", value);
-		// }

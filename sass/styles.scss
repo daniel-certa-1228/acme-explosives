@@ -40,7 +40,7 @@ body {
 	// border: 1px solid grey;
 	color: white;
 	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	background-color: rgba(225, 51, 51, .6);
 	padding-bottom: 1em;
 	border-radius: 10px;
@@ -55,8 +55,8 @@ body {
 .card {
 	min-width: 30%;
 	min-height: 150px;
-	// background-color: blue;
-	// margin: em;
+	border: 1px dotted rgba(255,255,255,0.5);
+	border-radius: 20px;
 }
 
 .card-header {
