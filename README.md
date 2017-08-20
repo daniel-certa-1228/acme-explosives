@@ -1,1 +1,4 @@
-#Acme Explosives
+# Acme Explosives
+* Sass
+* Bootstrap
+* jQuery
