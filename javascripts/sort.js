@@ -21,7 +21,6 @@ bombs.loadProducts()
 		}).then
 		((loadedTypes) => {
 			let bomb_types = (Object.values(loadedTypes)[0]);
-			// console.log( "types", bomb_types );
 			for (let i = 0; i < sort.productArray.length; i++) {
 				for (let j = 0; j < bomb_types.length; j++) {
 					if (sort.productArray[i].type === bomb_types[j].id) {
@@ -36,13 +35,11 @@ bombs.loadProducts()
 		(reject) => {
 			console.log( "Types did not load" );
 		}).then((loadedCategories) => {
-			// console.log( "loadedCategories", loadedCategories );
 			let categories = (Object.values(loadedCategories)[0]);
-			// console.log( "categories", categories );
 			for (let i = 0; i < categories.length; i++) {
 				sort.categoryArray.push(categories[i]);
 			}
-			console.log( "categoryArray", sort.categoryArray );
+			
 			for (let i = 0; i < sort.productArray.length; i++) {
 				for (let j = 0; j < categories.length; j++) {
 					if (sort.productArray[i].category === categories[j].id) {
